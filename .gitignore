@@ -13,6 +13,9 @@ local.properties
 .loadpath
 .recommenders
 
+# TestNG
+reports/
+
 # Intellij
 .idea/
 *.iml
